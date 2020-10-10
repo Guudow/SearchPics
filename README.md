@@ -1,6 +1,6 @@
 This project is SearchBar with API UnSpalsh that you can search pictures 
 
-# Technology being used 
+## Technology being used 
 Semantic UI with ReactJs [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
